@@ -33,9 +33,9 @@
 [![An image of @esi0077's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/esi0077)](https://holopin.io/@esi0077)
 
 # 📊 GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=esi0077&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=esi0077&theme=vue-dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=esi0077&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=esi0077)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=esi0077&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=esi0077&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=esi0077&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 
 
