@@ -2,8 +2,8 @@
 ### IT Student and programer
 
 <p align="center">
-  <img src="https://e7.pngegg.com/pngimages/116/40/png-clipart-5-logo-angle-area-text-brand-other-html-5-angle-text.png" width="100">
-  <img src="https://cdn-icons-png.freepik.com/512/136/136527.png" width="100">
+  <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/original/javascript-logo-javascript-icon-transparent-free-png.png" width="100">
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" width="100">
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/electron-icon.png" width="100">
   <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="100">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" width="100">
@@ -17,8 +17,8 @@
 # Skills 💪🏻
 
 <p align="left">
-<img src="https://cdn.freebiesupply.com/logos/large/2x/html-5-logo-png-transparent.png" width="36" height="36" alt="HTML" />
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO5ryTY9VShCV5uJWhoBXkcxxlFB8O5bbxGA&s" width="36" height="36" alt="CSS" />
+<img src="https://e7.pngegg.com/pngimages/116/40/png-clipart-5-logo-angle-area-text-brand-other-html-5-angle-text.png" width="36" height="36" alt="HTML" />
+<img src="https://cdn-icons-png.freepik.com/512/136/136527.png" width="36" height="36" alt="CSS" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
