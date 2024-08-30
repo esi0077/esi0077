@@ -11,7 +11,7 @@
 
 * 🌍  I'm based in Norway
 * 🖥️  My webpage going to be public soon
-* ✉️  You can contact me at [Discord](https://discord.gg/926Xba54r7)
+* ✉️  You can contact me at [Mail](armines7654@gmail.com)
 * 🧠  Currently I'm learning Python
 
 # Skills 💪🏻
