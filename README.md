@@ -28,8 +28,6 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-# 📛 Holopin Badges
-[![@acidop's Holopin board](https://holopin.io/api/user/board?user=esi0077)](https://holopin.io/@esi0077)
 
 # 📊 GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=esi0077&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
