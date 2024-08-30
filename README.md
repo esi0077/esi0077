@@ -13,6 +13,7 @@
 * 🖥️  My webpage going to be public soon
 * ✉️  You can contact me at [Mail](mailto:armines7654@gmail.com)
 * 🧠  Currently I'm learning Python
+* [![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev)
 
 
 
