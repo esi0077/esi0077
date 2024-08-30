@@ -17,7 +17,7 @@
 # Skills 💪🏻
 
 <p align="left">
-<img src="https://e7.pngegg.com/pngimages/116/40/png-clipart-5-logo-angle-area-text-brand-other-html-5-angle-text.png" width="36" height="36" alt="HTML" />
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/html-icon.png" width="36" height="36" alt="HTML" />
 <img src="https://cdn-icons-png.freepik.com/512/136/136527.png" width="36" height="36" alt="CSS" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
