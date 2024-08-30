@@ -11,6 +11,6 @@
 
 * 🌍  I'm based in Norway
 * 🖥️  My webpage going to be public soon
-* ✉️  You can contact me at []()
+* ✉️  You can contact me at [Discord](https://discord.gg/926Xba54r7)
 * 🧠  Currently I'm learning Python
 
