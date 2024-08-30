@@ -13,7 +13,7 @@
 * 🖥️  My webpage going to be public soon
 * ✉️  You can contact me at [Mail](mailto:armines7654@gmail.com)
 * 🧠  Currently I'm learning Python
-* [![Armin Esmaili](https://github-readme-medium.vercel.app/?username=omidnikrah)](https://no.linkedin.com/in/armin-esmaili-4744b32b7?original_referer=https%3A%2F%2Fwww.google.com%2F)
+* [![Armin Esmaili]([https://github-readme-medium.vercel.app/?username=omidnikrah](https://no.linkedin.com/in/armin-esmaili-4744b32b7?original_referer=https%3A%2F%2Fwww.google.com%2F))](https://no.linkedin.com/in/armin-esmaili-4744b32b7?original_referer=https%3A%2F%2Fwww.google.com%2F)
 
 
 # Skills 💪🏻
