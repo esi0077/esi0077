@@ -13,7 +13,7 @@
 * 🖥️  My webpage going to be public soon
 * ✉️  You can contact me at [Mail](mailto:armines7654@gmail.com)
 * 🧠  Currently I'm learning Python
-[![Visits Badge](https://badges.pufler.dev/visits/esi0077/badge-it)](https://badges.pufler.dev)
+
 
 
 
@@ -38,7 +38,8 @@
 # 📊 GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=esi0077&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=esi0077&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=esi0077&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=esi0077&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br>
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/esi0077)](https://badges.pufler.dev)
 
 
 
