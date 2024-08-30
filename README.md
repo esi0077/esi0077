@@ -23,3 +23,16 @@
 <img src="https://i.imgur.com/JCGbVI0.png" width="36" height="36" alt="XD" />
 </p>
 
+<!-- # Wakatime Stats 🚀 -->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+# 📛 Holopin Badges
+[![@acidop's Holopin board](https://holopin.io/api/user/board?user=esi0077)](https://holopin.io/@esi0077)
+
+# 📊 GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=esi0077&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=esi0077&theme=vue-dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=esi0077&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
