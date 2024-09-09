@@ -12,7 +12,7 @@
 * 🌍  I'm based in Norway
 * 🖥️  [Website](https://esi0077.github.io/)
 * ✉️  You can contact me at [Mail](mailto:armines7654@gmail.com)
-* 🧠  Currently I'm learning Python
+* 🧠  Currently I'm learning Linux
 
 
 
