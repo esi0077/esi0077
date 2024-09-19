@@ -26,6 +26,7 @@
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
 <img src="https://i.imgur.com/JCGbVI0.png" width="36" height="36" alt="XD" />
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinux_518713&psig=AOvVaw3QA164Xr5vrnPt8pjwnuA6&ust=1726838938774000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICX176Oz4gDFQAAAAAdAAAAABAY" width="36" height="36" alt="XD" />
 </p>
 
 <!-- # Wakatime Stats 🚀 -->
