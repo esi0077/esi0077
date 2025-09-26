@@ -45,9 +45,9 @@
 
 # 🛡️ TryHackMe :
 
-<figure class="video_container">
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3750436" style='border:none;'></iframe>
-</figure>
+[TryHackMe](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3750436 "@embed")
+
+
 
 
 
