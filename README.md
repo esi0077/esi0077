@@ -41,7 +41,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=esi0077&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=esi0077&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=esi0077&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br>
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/esi0077)](https://badges.pufler.dev)
+
+
+# 🛡️ TryHackMe :
+
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3750436" style='border:none;'></iframe>
 
 
 
