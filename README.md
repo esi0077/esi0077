@@ -45,7 +45,7 @@
 
 # 🛡️ TryHackMe :
 
-[![TryHackMe](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3750436)](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3750436)
+[![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3750436)](https://tryhackme.com/p/3750436)
 
 
 
