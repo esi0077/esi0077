@@ -45,9 +45,12 @@
 
 # 🛡️ TryHackMe :
 
-[TryHackMe](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3750436 "@embed")
 
-
+<object width="625" height="800">
+  <embed src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3750436"
+         type="application/x-shockwave-flash"
+         wmode="transparent" width="625" height="800" />
+</object>
 
 
 
