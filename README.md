@@ -45,7 +45,6 @@
 
 # 🛡️ TryHackMe :
 
-[![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3750436)](https://tryhackme.com/p/3750436)
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/armines765.png" alt="Your Image Badge" />
 
 
