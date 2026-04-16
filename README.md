@@ -1,50 +1,68 @@
-### Hi there my name is Armin, welcome to my github page👋
-### IT Student and programer
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=ARMIN&fontSize=80&fontAlignY=50" width="100%" />
+
+<br/>
+
+| [🌐 PORTFOLIO](https://esi0077.github.io/) | [📧 EMAIL](mailto:armines7654@gmail.com) | [🛡️ TRYHACKME](https://tryhackme.com/p/armines765) |
+| :---: | :---: | :---: |
+
+</div>
+
+---
+
+### 🛠️ STACK ARCHITECTURE
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,py,html,css,vscode,git,docker,figma,postman,maven,postgres,mysql,mongodb&perline=7&theme=dark" />
+</p>
+
+---
+
+### 📈 PERFORMANCE METRICS
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=esi0077&theme=transparent&hide_border=true&show_icons=true&text_color=ffffff&title_color=00d4ff&icon_color=00d4ff" width="95%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esi0077&theme=transparent&hide_border=true&layout=compact&text_color=ffffff&title_color=00d4ff" width="95%" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/original/javascript-logo-javascript-icon-transparent-free-png.png" width="100">
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" width="100">
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/electron-icon.png" width="100">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cmmOu4xUkNNZlk-qh4r47i9n6R1mLQD-3Q&s" width="100">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" width="100">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=esi0077&theme=transparent&hide_border=true&stroke=00d4ff&ring=00d4ff&fire=00d4ff&currStreakLabel=ffffff" width="100%" />
 </p>
 
-* 🌍  I'm based in Norway
-* 🖥️  [Website](https://esi0077.github.io/)
-* ✉️  You can contact me at [Mail](mailto:armines7654@gmail.com)
-* 🧠  Currently I'm learning Linux
+---
 
+### 🏅 CREDENTIALS
+<div align="center">
+<table width="90%" border="0">
+  <tr align="center">
+    <td width="50%">
+      <a href="https://holopin.io/@esi0077">
+        <img src="https://holopin.me/esi0077" width="100%" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://tryhackme.com/p/armines765">
+        <img src="https://tryhackme-badges.s3.amazonaws.com/armines765.png" width="80%" alt="TryHackMe" />
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
 
+---
 
+### ⚙️ CURRENT PROJECTS
+* **Full-Stack Development:** Building scalable applications with **Node.js** and **Python**.
+* **Security Integration:** Implementing secure coding practices based on **TryHackMe** methodologies.
+* **UI/UX:** Designing high-fidelity prototypes in **Adobe XD** and **Figma**.
 
-# Skills 💪🏻
+<br/>
 
-<p align="left">
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/html-icon.png" width="36" height="36" alt="HTML" />
-<img src="https://cdn-icons-png.freepik.com/512/136/136527.png" width="36" height="36" alt="CSS" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
-<img src="https://i.imgur.com/JCGbVI0.png" width="36" height="36" alt="XD" />
-<img src="https://cdn.icon-icons.com/icons2/2845/PNG/512/linux_logo_icon_181333.png" width="36" height="36" alt="XD" />
-</p>
-
-<!-- # Wakatime Stats 🚀 -->
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-# 🤖 holopin Badges 
-[![An image of @esi0077's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/esi0077)](https://holopin.io/@esi0077)
-
-
-# 📊 GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=esi0077&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=esi0077&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=esi0077&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br>
-
-
-# 🛡️ TryHackMe :
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/armines765.png" alt="Your Image Badge" />
-
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=00d4ff&height=30&section=footer" width="100%" />
+</div>
