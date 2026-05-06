@@ -4,7 +4,7 @@
 
 <br/>
 
-| [🌐 PORTFOLIO](https://esi0077.github.io/) | [📧 EMAIL](mailto:armines7654@gmail.com) | [🛡️ TRYHACKME](https://tryhackme.com/p/armines765) |
+| [📧 EMAIL](mailto:armines7654@gmail.com) | [🛡️ TRYHACKME](https://tryhackme.com/p/armines765) |
 | :---: | :---: | :---: |
 
 </div>
