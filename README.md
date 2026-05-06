@@ -5,7 +5,7 @@
 <br/>
 
 | [📧 EMAIL](mailto:armines7654@gmail.com) | [🛡️ TRYHACKME](https://tryhackme.com/p/armines765) |
-| :---: | :---: | :---: |
+| :---: | :---: |
 
 </div>
 
